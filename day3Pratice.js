@@ -18,3 +18,11 @@ let fruits = ['apple', ',mango', 'banana', 'kiwi']
 let addFruits = fruits.splice(2, 2, 'waterMelon', 'gwava')
 
 console.log(fruits)
+
+
+
+let name = ['Rahul', 'Piyush', 'Munna', 'Shashi']
+
+let addName = name.splice(0, 3, 'Robin')
+
+console.log(name)
